@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./philosophiapatr00wegegoog_0008.png"; bbox 0 0 950 1415; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 190 223 728 338">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 190 223 728 338">
+     <span class='ocr_line' id='line_1_1' title="bbox 190 223 728 338; baseline 0.009 -7"><span class='ocrx_word' id='word_1_1' title='bbox 190 223 492 332; x_wconf 68' lang='lat' dir='ltr'><strong>mansurum</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 518 270 697 332; x_wconf 68' lang='lat' dir='ltr'><strong>rmum</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 726 336 728 338; x_wconf 80' lang='grc'><strong>,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 261 417 623 438">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 261 417 623 438">
+     <span class='ocr_line' id='line_1_2' title="bbox 261 417 623 438; baseline 0 -3"><span class='ocrx_word' id='word_1_4' title='bbox 261 417 364 435; x_wconf 74' lang='lat' dir='ltr'>VERsmUS</span> <span class='ocrx_word' id='word_1_5' title='bbox 375 417 509 435; x_wconf 73' lang='lat' dir='ltr'>PRAESERTIM</span> <span class='ocrx_word' id='word_1_6' title='bbox 520 418 623 438; x_wconf 76' lang='lat' dir='ltr'>LEONINIS,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 195 487 659 522">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 195 487 659 522">
+     <span class='ocr_line' id='line_1_3' title="bbox 195 487 659 522; baseline 0.002 -6"><span class='ocrx_word' id='word_1_7' title='bbox 195 520 198 522; x_wconf 18' lang='grc' dir='ltr'><strong>Α</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 229 487 354 516; x_wconf 71' lang='lat' dir='ltr'>Rffl&#39;fflmls</span> <span class='ocrx_word' id='word_1_9' title='bbox 375 487 520 517; x_wconf 70' lang='lat' dir='ltr'><strong>Gfflmfflcls</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 542 488 659 522; x_wconf 65' lang='lat' dir='ltr'><strong>Anfflcffl&#39;ls,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 237 566 593 613">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 237 566 593 613">
+     <span class='ocr_line' id='line_1_4' title="bbox 237 566 593 613; baseline 0 -23"><span class='ocrx_word' id='word_1_11' title='bbox 237 597 246 613; x_wconf 62' lang='lat'><em>)</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 289 566 434 590; x_wconf 81' lang='lat' dir='ltr'>IUVENTUTI</span> <span class='ocrx_word' id='word_1_13' title='bbox 451 566 593 590; x_wconf 84' lang='lat' dir='ltr'>STUDIOSAE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 147 584 523 925">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 147 584 523 925">
+     <span class='ocr_line' id='line_1_5' title="bbox 147 584 523 925; baseline 0 -323"><span class='ocrx_word' id='word_1_14' title='bbox 147 584 523 925; x_wconf 95' lang='lat' dir='ltr'><strong>  </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
